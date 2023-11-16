@@ -16,6 +16,6 @@ public class formattingOutput {
             System.out.println(str + digi);
         }
         System.out.println("================================");
-        sc.close();
+
     }
 }
