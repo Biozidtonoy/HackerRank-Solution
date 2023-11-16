@@ -6,7 +6,7 @@ public class SolutionII {
         int i = scan.nextInt();
         double d = scan.nextDouble();
         scan.nextLine();
-        String s = scan.nextLine();
+        String sb = scan.nextLine();
 
         System.out.println("String: " + s);
         System.out.println("Double: " + d);
